@@ -15,9 +15,9 @@ Details of the form fields required and any validation rules are provided below,
 | Label         | Field name    | Data type | Required? |
 | ------------- |:-------------:|:---------:|:---------:|
 | First name | first_name | string | :white_check_mark: |
-| Last name | last_name | string | :white_check_mark: |
+| Last name | last_name | string |  |
 | Email | email | string | :white_check_mark: |
-| Phone number | phone_number | string | :white_check_mark: |
+| Phone number | phone_number | string |  |
 | Do you live in the uk? | live_in_uk | boolean | :white_check_mark: |
 | Git profile | git_profile | string | :white_check_mark: |
 | Upload CV | file | string | :white_check_mark: |
