@@ -4,13 +4,15 @@ The brief is simple. Create a multi-step form used to submit your CV and details
 
 The aim of this test is to assess the decisions you make along the way, including but not limited to choice of tech, engineering, and general care to user experience.
 
+Don't worry about over-engineering, we want to see the technology you can make use of. Try and wow us.
+
 ## Instructions
 
-Create a multi-step form to allow users (yourself) to submit your CV and details
+Create a multi-step form to allow users (yourself) to submit your CV and details to via Ajax.
 
 ### Form fields
 
-Details of the form fields required and any validation rules are provided below, and should be submitted using the associated field names.
+Details of the form fields required and any validation rules are provided below, and should be submitted using the associated field names. Any other validation rules will be returned in the 422 response so be sure to handle them appropriately.
 
 | Label         | Field name    | Data type | Required? |
 | ------------- |:-------------:|:---------:|:---------:|
@@ -58,4 +60,4 @@ All data is deleted after 7 days.
 
 ### Are there preferences on x, y, z?
 
-Our code standards are available [here](here) and our 
+Use whatever you like, and as said, don't worry if you feel liek you're over-engineering it. Our code standards are available [here](https://netsells.github.io/code-standards/) and our linters are available [here](https://github.com/netsells/eslint-config-netsells/) and [here](https://github.com/netsells/stylelint-config-netsells/). Bonus points if you follow these.
