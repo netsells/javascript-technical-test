@@ -51,6 +51,10 @@ This endpoint will either return a success (`200`) or a validation error (`422`)
 
 ## FAQ
 
+### What is this?
+
+This is the technical test for the "frontend javascript developer" role at [Netsells](http://netsells.co.uk), a digital agency based in York, UK. If you came across this technical test in the wild, why not see if you're the [person we're looking for?](./JOB_SPEC.md)
+
 ### Do I need to submit my details?
 
 We will purely use the submitted details to ensure that the forn successfully submits, so we don't care about the legitimacy of data, however it would be helpful to see which requests came from you.
