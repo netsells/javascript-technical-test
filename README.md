@@ -31,7 +31,7 @@ Details of the form fields required and any validation rules are provided below,
 You should submit all of your data to the following endpoint as a `POST` request:
 
 ```
-https://technical-tests.netsells.co.uk/vacancies/javascript-developer/submissions
+https://recruitment-submissions.netsells.co.uk/api/vacancies/javascript-developer/submissions
 ```
 
 This endpoint will either return a success (`200`) or a validation error (`422`) if the data provided is incorrect.
