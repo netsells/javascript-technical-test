@@ -22,8 +22,8 @@ Details of the form fields required and any validation rules are provided below,
 | Phone number | phone_number | string |  |
 | Do you live in the uk? | live_in_uk | boolean | :white_check_mark: |
 | Git profile | git_profile | string | :white_check_mark: |
-| Upload CV | cv | string | :white_check_mark: |
-| Upload Cover Letter | cover_letter | string |  |
+| Upload CV | cv | file | :white_check_mark: |
+| Upload Cover Letter | cover_letter | file |  |
 | About you | about_you | string | :white_check_mark: |
 
 ### Endpoint
@@ -48,6 +48,10 @@ This endpoint will either return a success (`200`) or a validation error (`422`)
 - An eye for design/detail
 - Use of a JavaScript framework
 - Tests
+
+## Submission
+
+Please add `samturrell` as a user to your Github/Bitbucket repository so that we can see your code.
 
 ## FAQ
 
