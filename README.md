@@ -70,3 +70,8 @@ All data is deleted after 7 days.
 ### Are there preferences on x, y, z?
 
 Use whatever you like, and as said, don't worry if you feel like you're over-engineering it. Our code standards are available [here](https://netsells.github.io/code-standards/) and our linters are available [here](https://github.com/netsells/eslint-config-netsells/) and [here](https://github.com/netsells/stylelint-config-netsells/). Bonus points if you follow these.
+
+### I'm getting all kinds of 'Access-Control-Allow-Origin' errors, what do I do?!
+
+Try the `'X-Requested-With': 'XMLHttpRequest'` header.
+
