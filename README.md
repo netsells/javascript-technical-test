@@ -61,7 +61,7 @@ This is the technical test for the "frontend javascript developer" role at [Nets
 
 ### Do I need to submit my details?
 
-We will purely use the submitted details to ensure that the forn successfully submits, so we don't care about the legitimacy of data, however it would be helpful to see which requests came from you.
+We will purely use the submitted details to ensure that the form successfully submits, so we don't care about the legitimacy of data, however it would be helpful to see which requests came from you.
 
 ### What happens to the details I submit?
 
